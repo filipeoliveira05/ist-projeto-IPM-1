@@ -26,8 +26,8 @@ O objetivo foi **redesenhar a interface da aplicação móvel Quizzes-Tutor**, f
 ---
 
 ## 📂 Conteúdo do Repositório
-- `IPM2425P1.fig` → Protótipo de alta-fidelidade no **Figma**.
-- `enunciado-IPM2425P1.pdf` → Enunciado original do projeto.
+- [IPM2425P1.fig](./IPM2425P1.fig) → Protótipo de alta-fidelidade no **Figma**.
+- [enunciado-IPM2425P1.pdf](./enunciado-IPM2425P1.pdf) → Enunciado original do projeto.
 
 ---
 
